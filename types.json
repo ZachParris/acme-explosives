@@ -1,0 +1,40 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "commercial",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 1,
+            "categoryId": 0,
+            "name": "indoor",
+            "description": "Smaller Fireworks"
+        },
+        {
+            "id": 2,
+            "categoryId": 0,
+            "name": "outdoor",
+            "description": "Bigger Fireworks"
+        },
+         {
+            "id": 3,
+            "categoryId": 1,
+            "name": "lethal",
+            "description": "volatile"
+        },
+        {
+            "id": 4,
+            "categoryId": 1,
+            "name": "weaponized",
+            "description": ""
+        },
+        {
+            "id": 5,
+            "categoryId": 1,
+            "name": "military",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "typeId": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },
+         {
+            "id": 1,
+            "typeId": 1,
+            "name": "M80's",
+            "description": "Little dudes with a short fuse and a big bang!"
+        },
+         {
+            "id": 2,
+            "typeId": 2,
+            "name": "Little Tanks",
+            "description": "The saddest of all fireworks."
+        },
+        {
+            "id": 3,
+            "typeId": 0,
+            "name": "willow",
+            "description": "Long cascading burst with stars that fall downward"
+        },
+         {
+            "id": 4,
+            "typeId": 1,
+            "name": "palm",
+            "description": "Long cascading stars burst with thick glittery tails"
+        },
+         {
+            "id": 5,
+            "typeId": 2,
+            "name": "spinner",
+            "description": "stars that spin away from a burst in a synchronized fashion"
+        },
+         {
+            "id": 6,
+            "typeId": 0,
+            "name": "bottlerockets",
+            "description": "shoot them at your friends"
+        },
+         {
+            "id": 7,
+            "typeId": 1,
+            "name": "smoke bombs",
+            "description": "colorful smoke"
+        },
+         {
+            "id": 8,
+            "typeId": 2,
+            "name": "blackcats",
+            "description": "easy to hurt yourself with"
+        },
+        {
+            "id": 9,
+            "typeId": 3,
+            "name": "HMX",
+            "description": "also called octogen, is a powerful and relatively insensitive nitroamine"
+        },
+         {
+            "id": 10,
+            "typeId": 3,
+            "name": "nitroglycerin",
+            "description": "a heavy, colorless, oily, explosive liquid"
+        },
+         {
+            "id": 11,
+            "typeId": 3,
+            "name": "TNT",
+            "description": "an explosive material with convenient handling properties"
+        },
+         {
+            "id": 12,
+            "typeId": 5,
+            "name": "grenades",
+            "description": "any small bomb that can be thrown by hand"
+        },
+         {
+            "id": 13,
+            "typeId": 5,
+            "name": "C-4",
+            "description": "has a texture similar to modeling clay"
+        },
+         {
+            "id": 14,
+            "typeId": 5,
+            "name": "PENO",
+            "description": "originated in Finland"
+        },
+         {
+            "id": 15,
+            "typeId": 4,
+            "name": "Dynamite",
+            "description": "Three sticks with an old alarm clock strapped to it."
+        },
+         {
+            "id": 16,
+            "typeId": 4,
+            "name": "Sperical Bomb",
+            "description": "Bowling ball with a fuse."
+        },
+         {
+            "id": 17,
+            "typeId": 4,
+            "name": "Missiles",
+            "description": "red rockets"
+        }
+    ]
+}
