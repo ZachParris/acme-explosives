@@ -2,7 +2,7 @@
     "types": [
         {
             "id": 0,
-            "category": 0,
+            "categoryId": 0,
             "name": "commercial",
             "description": "Fireworks intended for recreational use during holiday celebrations"
         },
